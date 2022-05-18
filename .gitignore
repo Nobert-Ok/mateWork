@@ -132,3 +132,6 @@ dmypy.json
 .chalice/deployments/
 .chalice/deployed/
 .chalice/venv/
+
+# IDE auto generated files
+.idea/*
